@@ -22,3 +22,6 @@ CMBar.app
 ```
 ### 실행 방법
 응용프로그램에 설치된 CMBar App을 실행 한다.
+
+<img src="https://user-images.githubusercontent.com/24468970/180647861-b033c4a7-f45e-491f-854d-1236f196d4e1.png">
+<img src="https://user-images.githubusercontent.com/24468970/180647866-bda84fdc-1588-417a-b99e-5cebeeec8a54.png">
