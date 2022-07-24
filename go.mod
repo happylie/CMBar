@@ -1,4 +1,4 @@
-module github.com/happylie/cm-bar
+module CMBar
 
 go 1.18
 

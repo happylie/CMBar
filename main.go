@@ -1,10 +1,10 @@
 package main
 
 import (
+	"CMBar/pkg/status"
 	"strconv"
 
 	"github.com/getlantern/systray"
-	"github.com/happylie/cm-bar/pkg/status"
 )
 
 func main() {
