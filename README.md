@@ -1,5 +1,7 @@
 # CMBar
-## MacOS CPU / Memory Menubar Tool 
+## MacOS CPU / Memory Menubar App 
+- https://happylie.tistory.com/146
+
 ### 설치 방법
 1. Git Clone
 ```
