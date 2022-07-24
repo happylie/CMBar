@@ -27,8 +27,17 @@ fi
 
 cd $HOME_PATH
 go mod download
+
+if [ -e "err.log" ]
+then
+    rm err.log
+    echo -e "[+][$(date "$date_format")] Make Errorlog File"
+fi
+
 GOMAXPROCS=1 go build -o CMBar 2>err.log
-if [ -s "err.log" ];then
+
+if [ -s "err.log" ]
+then
     echo -e "[+][$(date "$date_format")] CMBar App Build Error"
     exit 2
 fi
